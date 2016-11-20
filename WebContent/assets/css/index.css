@@ -1,0 +1,70 @@
+input.input-lg {
+    width: 100%;
+    height: 20%;
+      display:block;
+}
+
+input#pw.input-lg {
+  margin-top:5%;
+}
+
+button.btn.btn-default {
+  display:block;
+  margin-top:5%;
+    width: 100%;
+  height: 20%;
+}
+
+section#jum_sec {
+  width:21%;
+  margin:auto;
+}
+
+.jumbotron{
+    background-image: url(../image/landing.jpg);
+    background-size: cover;
+    height: 50%;
+}
+section#jum_sec{
+    width: 17%;
+    margin: 2% auto;
+}
+#find{
+    text-decoration: none;
+    font-size: 12px;
+}
+.landing_img{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+.landing_btn{
+    background-image: -webkit-gradient(linear,left top, left bottom, from(#fff),to(#f56089));
+}
+.btn-default:hover {
+    background-image: -webkit-gradient(linear,left top, left bottom, from(#fff),to(#f56089));
+}
+#center_p1{
+    margin: 15% 0;
+}
+#center_p2{
+    margin: 20% 0;
+}
+#center_p3{
+    margin: 20% 0;
+}
+.h{
+    color: #f56089;
+}
+.p{
+    color: #595959;
+    font-size: 17px;
+}
+#phone{
+    width: 70%;
+    height: 300px;
+}
+.modal_col{
+    margin-top: 3%;
+}

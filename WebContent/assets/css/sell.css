@@ -1,0 +1,249 @@
+
+
+div#two_bt {
+  width:30%;
+  margin:2% auto;
+}
+
+.ma_se {
+  width:40%;
+  margin:2% 3%;
+}
+
+a {
+  color:black;
+  text-decoration:none;
+}
+
+a:focus, a:hover {
+  color:#f56089;
+  text-decoration:none;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+  text-decoration:none;
+  background-color:white;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  color:#f56089;
+  background-color:white;
+}
+
+.magazine_nav {
+  width: 400px;
+  margin:0 auto;
+  font-size:15px;
+}
+
+div#best_div {
+  padding:3% 5%;
+}
+
+#banner{
+    margin: 3% 0;
+}
+
+#nav_border {
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+}
+
+hr#best_hr {
+  margin:0 0 4% 0;
+  border-color:#f56089;
+}
+
+h3#best_h3 {
+  color:#f56089;
+  font-weight:700;
+}
+
+.number_span {
+  color:#f56089;
+  font-size:17px;
+}
+
+span.text_span {
+  font-size:12px;
+  color:grey;
+}
+
+hr.magazine_hr {
+  border-color:#595959;
+}
+
+.btn-group, .btn-group-vertical {
+  position:relative;
+  display:inline-block;
+  float:right;
+  vertical-align:middle;
+}
+
+.margin_row {
+  margin:0 0.5%;
+}
+
+.kind_div {
+  border-bottom:0.5px solid #ccc;
+}
+
+.margin_hr {
+  margin:0.5% 0;
+}
+
+#margin_hr_id {
+  margin-bottom:20px;
+}
+
+#magazine_hr1 {
+  border-color:#ccc;
+  margin-top:0.5%;
+}
+.swiper_col{
+    margin-left: 4%;
+}
+.card_margin{
+    margin-bottom: 7%;
+}
+.btnGroup{
+  margin: 10px;
+}
+
+.slideImg{
+  width: 100%;
+  height: 200px;
+}
+.magazine_span_div{
+    padding: 3% 3%;
+}
+.row-item{
+  height: 100%;
+}
+
+div.col-lg-8.col-md-8 {
+  height:100%;
+}
+
+.kind_div{
+    border-bottom: 0.5px solid #ccc;
+}
+.kind_h5{
+    font-weight: 600;
+}
+.kind_a_div{
+    padding: 0.7% 0;
+    font-size: 17px;
+}
+.kind_a{
+    margin-right: 1.5%;
+}
+#red_color{
+    color: red;
+}
+#blue_color{
+    color: blue;
+}
+
+Container.Row.Column.Image {
+  margin-top:5%;
+}
+
+container.row.column.img {
+  margin-top:5%;
+}
+
+container.row.column.img {
+  margin-top:5%;
+}
+
+container.row.column.img {
+  margin-top:5%;
+}
+
+img#hot {
+  width: 100%;
+  height:320px;
+}
+
+.col-lg-4.col-md-4.col-sm-4{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+img.show {
+  padding-top:15px;
+  padding-bottom:15px;
+  width:100%;
+  height:200px;
+}
+
+div.col-lg-4.col-md-4 {
+  height:320px;
+}
+
+h4.a {
+  margin-left:5%;
+}
+
+h4 > a {
+  margin-left:5%;
+}
+
+h4 > a {
+  margin-left:5%;
+}
+
+div > h4 > a {
+  margin-left:5%;
+}
+
+.col-md-12 kind_div > h4 > a {
+  margin-left:5%;
+}
+
+h4 > a {
+  padding-left:5%;
+}
+
+a.select {
+  margin-left:3%;
+}
+.swiper-container {
+    width: 100%;
+    height: 300px;
+    margin: 20px auto;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.append-buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+.append-buttons a {
+    display: inline-block;
+    border: 1px solid #007aff;
+    color: #007aff;
+    text-decoration: none;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin: 0 10px;
+    font-size: 13px;
+}

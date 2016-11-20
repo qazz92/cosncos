@@ -1,0 +1,57 @@
+html, body{
+    height: 100%;
+
+}
+#top_ul{
+    width:420px;
+    float: right;
+    font-size: 14px;
+}
+.top_li{
+    display: inline-block;
+    margin-left: 3%;
+}
+/*
+.col-xs-12{
+    margin-bottom: 5%;
+}
+*/
+.logo_row{
+    margin: 2% 7%;
+}
+#logo{
+    width: 90%;
+}
+#find_form{
+    width: 90%;
+    margin: auto;
+    border: 2px solid #f56089;
+}
+.w3-border-0{
+    width: 80%;
+    height: 40px;
+    outline-style: none;
+}
+#glass{
+    width: 28px;
+    margin: 1.5%;
+    float: right;
+}
+#footer_logo{
+    display: block;
+    margin: 5% auto 0 auto;
+    width: 80%;
+}
+#footer_p{
+    margin-top: 1%;
+    font-size: 12px;
+    color: #595959;
+}
+.w_r{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.h_r{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
